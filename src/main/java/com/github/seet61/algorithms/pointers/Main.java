@@ -1,4 +1,4 @@
-package com.github.seet61.algorithms;
+package com.github.seet61.algorithms.pointers;
 
 public class Main {
     public static void main(String[] args) {
